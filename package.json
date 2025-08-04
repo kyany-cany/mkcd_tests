@@ -1,0 +1,23 @@
+{
+  "name": "mkcd_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "eslint": "^9.32.0",
+    "globals": "^16.3.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "lzma-native": "^8.0.6",
+    "yauzl": "^3.2.0"
+  }
+}
